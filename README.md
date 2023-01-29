@@ -8,6 +8,8 @@ Awesome papers related to generative molecular modeling and design.
 Survey
 ----------
 * [Elsevier 2022] **Deep learning approaches for de novo drug design: An overview**  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0959440X21001433?via%3Dihub)
+* [arXiv 2022] **Structure-based drug design with geometric deep learning** [[Paper]](https://arxiv.org/abs/2210.11250)
+* [WIREs Computational Molecular Science 2022] **Generative models for molecular discovery: Recent advances and challenges** [[Paper]](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1608)
 
 2023
 ----------
@@ -40,8 +42,8 @@ Survey
 * [bioRxiv 2022] **Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models** [[Paper]](https://www.biorxiv.org/content/10.1101/2022.07.10.499510v1)
 * [bioRxiv 2022] **Learning inverse folding from millions of predicted structures** [[Paper]](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v1.abstract)[[Code]](https://github.com/facebookresearch/esm)
 * [bioRxiv 2022] **Antibody optimization enabled by artificial intelligence predictions of binding affinity and naturalness** [[Paper]](https://www.biorxiv.org/content/10.1101/2022.08.16.504181v1.full)
-
-2021
+* [Nature Communications Chemistry 2022] **Generative and reinforcement learning approaches for the automated de novo design of bioactive compounds** [[Paper]](https://www.nature.com/articles/s42004-022-00733-0)
+* [Journal of Cheminformatics 2022] **Augmented Hill-Climb increases reinforcement learning efficiency for language-based de novo molecule generation** [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00646-z)
 ----------
 * [NeurIPS 2021] **A 3D Generative Model for Structure-Based Drug Design** [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/314450613369e0ee72d0da7f6fee773c-Abstract.html)[[Code]](https://github.com/luost26/3d-generative-sbdd)
 
